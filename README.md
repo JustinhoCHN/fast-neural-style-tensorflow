@@ -18,7 +18,7 @@ This code is based on [Tensorflow-Slim](https://github.com/tensorflow/models/tre
 
 ## Requirements and Prerequisites:
 - Python 2.7.x
-- Tensorflow(>= 0.11)
+- Tensorflow(>= 1.0)
 
 And make sure you installed pyyaml:
 ```
